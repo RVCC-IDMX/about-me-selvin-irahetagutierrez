@@ -1,0 +1,44 @@
+body {
+    background-color: #F6F4EB;
+    color: #B3AA82;
+    text-shadow: 0 1px 0 #FFFFFF;
+    font-family: 'Playfair Display', serif;
+  }
+  .blueLogo{
+    width: 3rem;
+    height: auto;
+    margin: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .title{
+text-align: center;
+text-decoration: underline;
+  }
+  .basicInfo{
+    text-align: center;
+  }
+  .profileImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .nameTitle{
+    font-size: 2rem;
+  }
+  .location{
+    font-size: 1rem;
+  }
+  .subtitle{
+    text-align: center;
+    font-size: 1.3rem;
+  }
+  footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
