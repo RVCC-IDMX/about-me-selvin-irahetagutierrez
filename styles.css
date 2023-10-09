@@ -1,6 +1,6 @@
 body {
     background-color: #F6F4EB;
-    color: #B3AA82;
+    color: #5c5a4f;
     text-shadow: 0 1px 0 #FFFFFF;
     font-family: 'Playfair Display', serif;
   }
@@ -34,6 +34,22 @@ text-decoration: underline;
   .subtitle{
     text-align: center;
     font-size: 1.3rem;
+  }
+  .hobbiesList{
+    text-align: center;
+  }
+  .lists{
+    list-style-type: none;
+  }
+  .soccer{
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .captions{
+    text-align: center;
+    margin: 10px;
   }
   footer{
     position: fixed;
